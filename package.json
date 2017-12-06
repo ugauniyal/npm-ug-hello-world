@@ -1,0 +1,19 @@
+{
+  "name": "npm-ug-hello-world",
+  "version": "1.0.0",
+  "description": "Sample hello world module",
+  "main": "my-module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ugauniyal/npm-ug-hello-world.git"
+  },
+  "author": "ugauniyal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ugauniyal/npm-ug-hello-world/issues"
+  },
+  "homepage": "https://github.com/ugauniyal/npm-ug-hello-world#readme"
+}
